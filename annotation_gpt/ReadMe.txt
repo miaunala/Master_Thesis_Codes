@@ -1,0 +1,2 @@
+Prompt files for GPT strongly based on:
+Gilardi, Fabrizio; Alizadeh, Meysam; Kubli, Maël (2023): Replication Data for: ChatGPT outperforms crowd-workers for text-annotation tasks. Harvard Dataverse, V1; 03-01-chatgpt-Zeroshot-Task-template.py [fileName]. https://doi.org/10.7910/DVN/PQYF6M
